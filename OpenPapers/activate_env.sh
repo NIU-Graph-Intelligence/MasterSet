@@ -1,1 +1,0 @@
-source "$HOME/miniconda3/bin/activate" openpapers
