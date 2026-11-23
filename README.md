@@ -113,20 +113,16 @@ If you use MasterSet in your research, please cite:
 
 ```bibtex
 @inproceedings{ratul2026masterset,
-  title         = {{MasterSet}: A Large-Scale Benchmark for Must-Cite Citation Recommendation in the {AI/ML} Literature},
-  author        = {Ratul, Md Toyaha Rahman and Chen, Zhiqian and Fu, Kaiqun and Ji, Taoran and Zhang, Lei},
-  booktitle     = {Proceedings of the 2026 SIAM International Conference on Data Mining (SDM26)},
-  year          = {2026},
-  eprint        = {2604.17680},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.IR},
-  url           = {https://arxiv.org/abs/2604.17680}
+  title     = {{MasterSet}: A Large-Scale Benchmark for Must-Cite Citation Recommendation in the {AI/ML} Literature},
+  author    = {Ratul, Md Toyaha Rahman and Chen, Zhiqian and Fu, Kaiqun and Ji, Taoran and Zhang, Lei},
+  booktitle = {Proceedings of the 2026 SIAM International Conference on Data Mining (SDM)},
+  pages     = {518--536},
+  year      = {2026},
+  publisher = {SIAM},
+  doi       = {10.1137/1.9781611979329.37},
+  url       = {https://doi.org/10.1137/1.9781611979329.37}
 }
 ```
-
-The proceedings DOI and page numbers are not available yet; this entry links to
-the arXiv preprint ([arXiv:2604.17680](https://arxiv.org/abs/2604.17680)) and
-will be updated after publication.
 
 ---
 
